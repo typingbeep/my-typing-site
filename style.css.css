@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 800px;
+}
+#sample-text {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}
+textarea {
+    resize: none;
+}
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
